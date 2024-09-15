@@ -3,7 +3,6 @@
 A new Flutter project.
 
 ## Screenshots
-## Screenshots
 
 <p align="center">
     <img src="screenshot.jpg" width=200>
