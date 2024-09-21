@@ -6,7 +6,7 @@ A new Flutter project.
 
 <p align="center">
     <img src="screenshot.jpg" width=200>
-    <img src="working.jpg" width=600>
+    <img src="working.jpg" width=900>
 </p>
 ## Getting Started
 
